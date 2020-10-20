@@ -14,7 +14,7 @@ In the past, Tableau users utilized the Dremio ODBC driver to connect to the Dre
 
 The Dremio Connector for Tableau architecture is illustrated in the following diagram.
 
-(/images/dremio-connector-for-tableau-architecture.png "Title")
+![Alt](/images/dremio-connector-for-tableau-architecture.png "Architecture")
 
 ### The Tutorial
 
