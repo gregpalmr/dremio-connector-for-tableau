@@ -18,9 +18,9 @@ The Dremio Connector for Tableau architecture is illustrated in the following di
 
 ### The Tutorial
 
-The Tutorial on using the Dremio Tableau Connector is located [a here.][1]
+The tutorial on using the Dremio Connector for Tableau is located [here.][1]
 
-####
+---
 Please direct comments or questions to greg@dremio.com
 
 [1]: /documents/Using_the_Dremio_Connector_for_Tableau.pdf
