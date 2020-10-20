@@ -1,5 +1,7 @@
 # dremio-connector-for-tableau
-Tutorial for using the Dremio Connector for Tableau
+A tutorial for using the Dremio Connector for Tableau
+
+---
 
 In the past, Tableau users utilized the Dremio ODBC driver to connect to the Dremio Data Lake Engine from their Tableau workbooks using the “Other Database” option. Now Dremio offers a customized connector for Tableau that is available from the Tableau Extension Gallery. This new connector was created using the Tableau Connector SDK and offers better performance and more features over the basic driver, including:
 
